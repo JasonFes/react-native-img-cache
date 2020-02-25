@@ -1,3 +1,5 @@
+clone from https://github.com/wcandillon/react-native-img-cache for RN0.60+
+
 # React Native Image Cache
 
 [![CircleCI](https://circleci.com/gh/wcandillon/react-native-img-cache.svg?style=svg)](https://circleci.com/gh/wcandillon/react-native-img-cache)
